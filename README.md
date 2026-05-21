@@ -41,7 +41,7 @@ while True:
     c.send(reply.encode())
 ```
 
-## OUPUT
+## OUTPUT
 <img width="1547" height="391" alt="image" src="https://github.com/user-attachments/assets/854321e7-6935-4ffe-b23f-79fd76d7b098" />
 
 ## RESULT
